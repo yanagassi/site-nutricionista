@@ -1,0 +1,1 @@
+[16-Jun-2018 23:32:05 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/ludgeros/public_html/ludgerosangaletti.com.br/lucasreis/novoSite/admin/tests/TestCase.php on line 8

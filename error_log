@@ -1,0 +1,4 @@
+[04-Jul-2018 20:37:57 America/Chicago] PHP Warning:  include(acaoBlog.php): failed to open stream: No such file or directory in /home/ludgeros/public_html/ludgerosangaletti.com.br/lucasreis/novoSite/index.php on line 2
+[04-Jul-2018 20:37:57 America/Chicago] PHP Warning:  include(acaoBlog.php): failed to open stream: No such file or directory in /home/ludgeros/public_html/ludgerosangaletti.com.br/lucasreis/novoSite/index.php on line 2
+[04-Jul-2018 20:37:57 America/Chicago] PHP Warning:  include(): Failed opening 'acaoBlog.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/ludgeros/public_html/ludgerosangaletti.com.br/lucasreis/novoSite/index.php on line 2
+[04-Jul-2018 20:37:57 America/Chicago] PHP Fatal error:  Call to undefined function conectarBancoPDO() in /home/ludgeros/public_html/ludgerosangaletti.com.br/lucasreis/novoSite/index.php on line 3
